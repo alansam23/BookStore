@@ -1,7 +1,6 @@
 package com.shopping.book.controller;
 
 import com.shopping.book.entities.Book;
-import com.shopping.book.entities.Cart;
 import com.shopping.book.exceptions.IdNotFoundException;
 import com.shopping.book.repository.BookRepository;
 import com.shopping.book.repository.CartRepository;
